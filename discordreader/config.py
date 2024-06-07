@@ -1,0 +1,4 @@
+CHANNEL_ID = 0
+
+RECEIVER_EMAIL_ADDRESS = ""
+ENDING_TAG = "-phone"
